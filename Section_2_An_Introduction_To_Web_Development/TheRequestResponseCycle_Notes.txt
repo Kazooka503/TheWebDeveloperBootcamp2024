@@ -1,0 +1,20 @@
+
+A Server Somewhere - >
+
+"Here are the instructions!" ->
+
+-> Your Browser - > "Look What I made!"
+
+
+HTTP REQUEST:
+"Please give me google.com/search?Q=chickens" 
+->
+
+SERVER:
+HTML + CSS + JAVASCRIPT
+<- 
+
+Browser:
+*Renders Webpage*
+
+
