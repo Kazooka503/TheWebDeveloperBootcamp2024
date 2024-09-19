@@ -1,0 +1,5 @@
+Front End:
+Code run on client browser
+
+Back End:
+Code run on servers
