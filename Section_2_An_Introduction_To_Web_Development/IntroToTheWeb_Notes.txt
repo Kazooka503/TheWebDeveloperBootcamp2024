@@ -1,0 +1,40 @@
+The Internet:
+
+Global network of interconnected computers that communicate via TCP/IP. Network of Networks
+
+The Web:
+
+The World Wide Web is an information system where documents and other resources are avaiable over the Internet.
+Documents are transferred via HTTP.
+
+HTTP Requests
+
+* Foundation of communication on the World Wide Web
+
+* "Hyper Text Transfer Protocol"
+
+* Request -> I would like this info please
+
+* Response -> Ok, here you go!
+
+Web Server
+
+A computer that can satisfy requests on the Web.
+* "server" is also used to refer to the software running on the computer
+
+Client
+
+The computer that accesses a server
+
+Client: "Hello Reddit, please give me /r/chickens"
+
+Web Server: "Ok!"
+
+Client: "Hello Reddit, please give me /r/jkadgfhgioasd"
+
+Web Server: "I'm terrifbly sorry, but I don't know wtf you are talking about."
+
+
+
+
+
