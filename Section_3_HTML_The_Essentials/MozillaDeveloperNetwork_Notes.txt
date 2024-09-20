@@ -8,3 +8,5 @@ Documentation and resources that help you learn about web and internet technolog
 
 Open Source and created by Developers
 
+MDN Element Reference for HTML:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
