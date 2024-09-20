@@ -1,0 +1,10 @@
+Mozilla Developer Network
+aka MDN
+
+Resource that covers web technologies.
+"Wikipedia for web"
+
+Documentation and resources that help you learn about web and internet technologies.
+
+Open Source and created by Developers
+
